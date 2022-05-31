@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abu sayed</h1>
-<h3 align="center">Fronend Web Developer.</h3>
+<h3 align="center">Frontend Web Developer.</h3>
 
 ![Profile views](https://gpvc.arturio.dev/abusayed987) 
 
