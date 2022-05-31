@@ -1,12 +1,14 @@
 ### Hi there 👋, Hey, This is Abu Sayed
 #### A Frontend Developer
-![A Frontend Developer](https://github.com/Abusayed987/abusayed987/blob/main/20220531_091249.jpg)
+![A Frontend Developer](https://github.com/Abusayed987/abusayed987/blob/main/rounded.png)
 
 I am A passionate Frontend Developer from Bangladesh. Contact Us: facebook.com/abusayed987
 
 Skills: HTML / CSS / JS / REACT
 
 - 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning JS , React 
+- 📫 How to reach me: sayedshishir.abu@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abusayed987)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abusayed987)  
